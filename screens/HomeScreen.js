@@ -32,8 +32,6 @@ export default function HomeScreen() {
 
   }, [])
 
-  console.log('featuredCategories',featuredCategories)
-
   return (
     <SafeAreaView className='bg-white pt-5'>
       <View className='flex-row pb-3 items-center mx-3 space-x-2'>

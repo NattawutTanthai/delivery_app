@@ -13,7 +13,7 @@ const initialState = {
   },
 };
 
-export const basketSlice = createSlice({
+export const restaurantSlice = createSlice({
   name: "restaurant",
   initialState,
   reducers: {
